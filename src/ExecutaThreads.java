@@ -3,8 +3,8 @@ public class ExecutaThreads {
 
 	public static void main(String[] args) {
 				
-		CalculoMilharesValores.executaCalculo();
-		ExibeMilharesDescricoes.executaMilharesNomes();
+		CalculaValores.executaCalculo();
+		ExibeDescricoes.executaExibicaoNomes();
 		
 		for(int i = 0; i < 100; i ++) {
 			System.out.println("Execução 1\n");

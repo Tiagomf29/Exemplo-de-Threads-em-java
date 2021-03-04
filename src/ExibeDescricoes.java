@@ -1,7 +1,7 @@
 
-public class ExibeMilharesDescricoes {
+public class ExibeDescricoes {
 	
-	public static void executaMilharesNomes() {
+	public static void executaExibicaoNomes() {
 		
 		new Thread() {
 			
